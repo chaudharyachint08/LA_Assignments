@@ -1,0 +1,27 @@
+Top 2 Nodes with highest betweeness centrality are
+('Little-finger', 'Varys')
+
+Edge with highest betweeness centrality is
+('Varys', 'Little-finger')
+
+Obtained Eigen Values are Real
+
+Smallest Eigen Value is 2.298220563043462e-16
+
+Eigen Vector corresponding to Smallest Eigen value is
+[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+Difference from Ideal Eigen value is  2.298220563043462e-16
+
+Maximum Difference Component-wise from Ideal Eigen vector is 0.0
+
+Second Smallest Eigen Value is 0.1215297424161518
+
+Eigen Vector corresponding to Second Smallest Eigen value is
+[-0.2960552  -0.24646062 -0.27048116 -0.26007583 -0.27690165 -0.17887273
+ -0.26007569 -0.28244098  0.2068688   0.18646789  0.202129    0.22522628
+  0.22095186  0.24313206  0.23009202  0.27676755  0.2068688   0.07285959]
+
+Algebricians should be friend with  {'Ned', 'Katelyn', 'Hodor', 'Rob', 'Sansa', 'Arya', 'Bran', 'Benjamin', 'Little-finger', 'Jon'}
+
+Same Clustering using Numpy's & Our's Second Smallest Eigen value's corresponding Eigen vector is obtained

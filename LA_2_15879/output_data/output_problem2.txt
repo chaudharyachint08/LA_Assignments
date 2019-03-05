@@ -1,0 +1,2 @@
+Accuracy using Euclidean Metric on test data is 94.6%
+Accuracy using Cosine    Metric on test data is 95.5%
